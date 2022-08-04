@@ -58,8 +58,8 @@ jobs:
           args:             
             # Unique keys of your project and organization. You can find them in SonarCloud > Information (bottom-left menu)
             # mandatory
-            -Dsonar.projectKey=workshop-desarrollo-seguro_AppInsegura
-            -Dsonar.organization=workshop-desarrollo-seguro
+            -Dsonar.projectKey=marcositu_AppInsegura
+            -Dsonar.organization=marcositu
             -Dsonar.sources=.
             -Dsonar.verbose=true
             -Dsonar.projectBaseDir=.
